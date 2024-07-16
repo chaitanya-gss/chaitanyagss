@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 👯 I’m looking to collaborate on Python Full Stack projects...
 - 💬 Ask me about Python, JS, HTML, CSS, PostgreSQL...
--  📫 How to reach me: 📞 <a href = "+1(862)237-6058>Mobile/Whatsapp</a>  📧 <a href = "gsschaitanya@gmail.com">Email</a> 🔗
+-  📫 How to reach me: 📞 <a href = "+1(862)237-6058>Mobile/Whatsapp"</a>  📧 <a href = "gsschaitanya@gmail.com">Email</a> 🔗
 <!--
 **chaitanyagss/chaitanyagss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
