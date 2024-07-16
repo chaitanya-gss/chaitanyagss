@@ -5,7 +5,7 @@
 -  📫 How to reach me: 📞 <a href = "+1(862)237-6058"> Mobile/Whatsapp</a>  📧 <a href = "gsschaitanya@gmail.com">Email</a> 🔗<a href = "https://www.linkedin.com/in/chaitanyagss/">LinkedIn</a>
 -  Aspire to get into GEN AI career.
 
-**##Certifications:**
+**Certifications:**
 - Microsoft Certified Power BI Data Analyst
 - Currently preparing for AWS cloud certifications
 
